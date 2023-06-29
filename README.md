@@ -36,7 +36,7 @@ pip install psycopg2
 ```
 
 ## Usage
-You can clone or download this GitHub project and build the database using the [`schema.sql`](https://github.com/andyvu016/sql-homework/blob/main/schema.sql) and seed files in the [\Data](https://github.com/andyvu016/sql-homework/tree/main/Data) folder in PostgreSQL. After that, open the [`visual_data_analysis.ipynb`](https://github.com/andyvu016/sql-homework/blob/main/visual_data_analysis.ipynb) using Jupyter Notebook. The Jupyter Notebook is seperated into sections that cover different aspects of the analysis. Each section contains explanations, code snippets, and interactive visualizations. By executing each cell in the Jupyter Notebook you can then interact with the visualizations.
+You can clone or download this GitHub project and build the database using the [`schema.sql`](https://github.com/andyvu016/sql-homework/blob/main/schema.sql) and [`all_tables_seed.sql`](https://github.com/andyvu016/sql-homework/blob/main/Data/all_tables_seed.sql) seed file in the [\Data](https://github.com/andyvu016/sql-homework/tree/main/Data) folder in PostgreSQL. After that, open the [`visual_data_analysis.ipynb`](https://github.com/andyvu016/sql-homework/blob/main/visual_data_analysis.ipynb) using Jupyter Notebook. The Jupyter Notebook is seperated into sections that cover different aspects of the analysis. Each section contains explanations, code snippets, and interactive visualizations. By executing each cell in the Jupyter Notebook you can then interact with the visualizations.
 
 ## References
 - [Quick Database Diagrams](https://www.quickdatabasediagrams.com/) - Used to generate entity relationship diagram (ERD) and table schemata
